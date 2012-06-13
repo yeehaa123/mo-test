@@ -3,7 +3,7 @@ date: 2012-06-12
 
 # Towards a New Intellectual   
 
-## A Shared Dilemma
+### A Shared Dilemma
 
 >> I'm not what I seem.   
 >> But that's okay.   
